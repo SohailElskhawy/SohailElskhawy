@@ -24,7 +24,6 @@
 name: Sohail
 role: Full Stack Engineer
 education: Computer Science @ Istanbul Cerrahpasha University (Year 3)
-current_project: Building an operational management system for dental clinics
 mission: "Dedicated to transforming complex workflows into elegant, user-centric solutions. Systems built to reduce errors, save time, and directly improve the bottom line."
 passions: 
   - "Scalable Systems"
