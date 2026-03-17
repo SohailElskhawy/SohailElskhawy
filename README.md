@@ -66,7 +66,7 @@ passions:
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://raw.githubusercontent.com/SohailElskhawy/SohailElskhawy/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SohailElskhawy/SohailElskhawy/blob/output/github-contribution-grid-snake.svg?raw=true)
 
 <br/>
 <p align="center">
