@@ -32,6 +32,10 @@ passions:
   - "Real-Time Integrations"
 ```
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SohailElskhawy/SohailElskhawy/main/assets/projects-collage.png" alt="Sohail's Projects Collage" width="100%" />
+</p>
+
 ### 🧰 Tools and Technologies
 
 <p align="left">
@@ -66,7 +70,11 @@ passions:
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/SohailElskhawy/SohailElskhawy/blob/output/github-contribution-grid-snake.svg?raw=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SohailElskhawy/SohailElskhawy/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SohailElskhawy/SohailElskhawy/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SohailElskhawy/SohailElskhawy/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 <p align="center">
