@@ -21,7 +21,7 @@
 ### 👨‍💻 About Me
 
 ```yaml
-name: Sohail
+name: Sohail Mohamed Elskhawy
 role: Full Stack Engineer
 education: Computer Science @ Istanbul Cerrahpasha University (Year 3)
 mission: "Dedicated to transforming complex workflows into elegant, user-centric solutions. Systems built to reduce errors, save time, and directly improve the bottom line."
