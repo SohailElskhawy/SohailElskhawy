@@ -2,16 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi,%20I'm%20Sohail!%20%F0%9F%91%8B&animation=fadeIn&type=waving&color=gradient&height=120" alt="Sohail's Header" />
 </p>
 
-<!-- SOCIAL LINKS (Replace "#" with your actual links) -->
+<!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="#">
+  <a href="https://www.linkedin.com/in/sohail-elskhawy-331679374/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="#">
+  <a href="https://sohail-elskhawy-portfolio.netlify.app/en">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:sohailelskhawy2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/905528509969">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
@@ -63,7 +66,7 @@ passions:
 
 ### 🐍 Contribution Graph
 
-![Snake animation](https://github.com/SohailElskhawy/SohailElskhawy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/SohailElskhawy/SohailElskhawy/output/github-contribution-grid-snake.svg)
 
 <br/>
 <p align="center">
