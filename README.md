@@ -31,9 +31,7 @@ passions:
   - "Real-Time Integrations"
 ```
 
-<p align="center">
-  <img src="https://github.com/SohailElskhawy/SohailElskhawy/blob/main/assets/projects-collage.jpg" alt="Sohail's Projects Collage" width="30%" />
-</p>
+
 
 ### 🧰 Tools and Technologies
 
