@@ -61,8 +61,13 @@ passions:
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SohailElskhawy&show_icons=true&theme=radical" alt="Your GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohailElskhawy&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+ <p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohailElskhawy&theme=transparent" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailElskhawy&theme=transparent" alt="Top Languages by Repo" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SohailElskhawy&theme=transparent&hide_border=true" alt="Streak Stats" />
+</p>
 </p>
 
 ### 🐍 Contribution Graph
