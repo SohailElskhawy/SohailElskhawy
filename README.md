@@ -65,9 +65,6 @@ passions:
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohailElskhawy&theme=transparent" alt="GitHub Stats" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailElskhawy&theme=transparent" alt="Top Languages by Repo" />
 </p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SohailElskhawy&theme=transparent&hide_border=true" alt="Streak Stats" />
-</p>
 </p>
 
 ### 🐍 Contribution Graph
